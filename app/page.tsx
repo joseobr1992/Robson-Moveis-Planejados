@@ -84,8 +84,8 @@ export default function LandingPage() {
           >
             <div className="mb-8 overflow-hidden aspect-square relative">
               <Image
-                src="https://picsum.photos/seed/wardrobe/800/800"
-                alt="Guarda Roupa Planejado"
+                src="https://cdn.pixabay.com/photo/2017/06/01/21/39/kitchen-2364665_1280.jpg"
+                alt="Móveis Planejados"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -102,8 +102,8 @@ export default function LandingPage() {
           >
             <div className="mb-8 overflow-hidden aspect-square relative">
               <Image
-                src="https://picsum.photos/seed/cabinet/800/800"
-                alt="Armário Planejado"
+                src="https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg"
+                alt="Cozinhas Gourmet Planejadas"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -120,8 +120,8 @@ export default function LandingPage() {
           >
             <div className="mb-8 overflow-hidden aspect-square relative">
               <Image
-                src="https://picsum.photos/seed/furniture-assembly/800/800"
-                alt="Montador de móveis"
+                src="https://images.pexels.com/photos/8961401/pexels-photo-8961401.jpeg"
+                alt="Montador de móveis profissional"
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
