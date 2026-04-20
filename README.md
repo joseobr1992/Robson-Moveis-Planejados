@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# PEX
 
-# Run and deploy your AI Studio app
+## Descrição
 
-This contains everything you need to run your app locally.
+Esse é o projeto de Extensão do curso superior Analise de Desenvolvimento de Sistemas, desenvolvi uma página web para um marceneiro divulgar seu serviço de forma mais profissional.
 
-View your app in AI Studio: https://ai.studio/apps/61bfe69e-3af1-4662-b6a5-1fb83f3ea478
+## Tecnologias Utilizadas
 
-## Run Locally
+* TypeScript
+* JavaScript
+* CSS
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Site
+[https://robson-moveis-planejados.vercel.app/](https://robson-moveis-planejados.vercel.app/)
