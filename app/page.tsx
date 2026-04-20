@@ -204,7 +204,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-6 md:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex flex-col items-center md:items-start text-center md:text-left">
             <span className="font-headline text-xl font-semibold text-stone-900">Robson Móveis Planejados</span>
-            <p className="font-body text-sm tracking-wide uppercase text-stone-500 mt-2">© 2024 Robson Móveis Planejados.</p>
+            <p className="font-body text-sm tracking-wide uppercase text-stone-500 mt-2">© 2026 Robson Móveis Planejados.</p>
           </div>
         </div>
       </footer>
